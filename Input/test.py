@@ -1,0 +1,3 @@
+import inp
+
+inp.add()
